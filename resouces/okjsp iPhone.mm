@@ -1,0 +1,37 @@
+<map version="0.8.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1281245051282" ID="Freemind_Link_1286732781" MODIFIED="1283228581452" TEXT="okjsp iPhone">
+<font NAME="NanumGothic" SIZE="12"/>
+<node CREATED="1281245063221" ID="_" MODIFIED="1281245066899" POSITION="right" TEXT="DTO">
+<node CREATED="1281245067143" ID="Freemind_Link_356896292" MODIFIED="1281245070635" TEXT="Article">
+<node CREATED="1281245129084" ID="Freemind_Link_1319351357" MODIFIED="1281245130136" TEXT="seq"/>
+<node CREATED="1281245130900" ID="Freemind_Link_756574372" MODIFIED="1281245224883" TEXT="board_seq">
+<font NAME="NanumGothic" SIZE="12"/>
+</node>
+<node CREATED="1281249263728" ID="Freemind_Link_1444913686" MODIFIED="1281249265315" TEXT="title"/>
+<node CREATED="1281249265816" ID="Freemind_Link_1438978062" MODIFIED="1281249266956" TEXT="content"/>
+<node CREATED="1281249268192" ID="Freemind_Link_1036683625" MODIFIED="1281249269764" TEXT="writer"/>
+<node CREATED="1281249167030" ID="Freemind_Link_1408461745" MODIFIED="1281249169674" TEXT="type">
+<node CREATED="1281249176702" ID="Freemind_Link_1106675573" MODIFIED="1281249186858" TEXT="history &apos;H&apos;"/>
+<node CREATED="1281245987248" ID="Freemind_Link_193004143" MODIFIED="1281249182778" TEXT="bookmark &apos;B&apos;"/>
+</node>
+</node>
+<node CREATED="1281245071807" ID="Freemind_Link_1812782537" MODIFIED="1281245074155" TEXT="Board">
+<node CREATED="1281245122164" ID="Freemind_Link_1402268070" MODIFIED="1281245124944" TEXT="seq"/>
+<node CREATED="1281245125308" ID="Freemind_Link_22399296" MODIFIED="1281245126432" TEXT="title"/>
+<node CREATED="1281245849204" ID="Freemind_Link_561971020" MODIFIED="1281245921520" TEXT="bookmark"/>
+</node>
+</node>
+<node CREATED="1281245887556" ID="Freemind_Link_1562711056" MODIFIED="1281245894302" POSITION="left" TEXT="&#xb9c8;&#xc774; &#xd398;&#xc774;&#xc9c0;">
+<edge WIDTH="thin"/>
+<node CREATED="1281245894766" ID="Freemind_Link_1749150537" MODIFIED="1281249394240" TEXT="&#xae00; &#xcc45;&#xac08;&#xd53c;"/>
+<node CREATED="1281245900422" ID="Freemind_Link_1172199749" MODIFIED="1281249385856" TEXT="&#xc77d;&#xc740; &#xae00; &#xd788;&#xc2a4;&#xd1a0;&#xb9ac;">
+<node CREATED="1281245904478" ID="Freemind_Link_3478889" MODIFIED="1281245910658" TEXT="10&#xac1c;"/>
+</node>
+</node>
+<node CREATED="1281248501934" ID="Freemind_Link_698279760" MODIFIED="1281248504499" POSITION="right" TEXT="&#xac8c;&#xc2dc;&#xd310;">
+<node CREATED="1281248505826" ID="Freemind_Link_53660349" MODIFIED="1281248528469" TEXT="&#xc804;&#xccb4; &#xb9ac;&#xc2a4;&#xd2b8;"/>
+<node CREATED="1281248529357" ID="Freemind_Link_687848771" MODIFIED="1281248750718" TEXT="&#xc990;&#xaca8;&#xcc3e;&#xae30;"/>
+</node>
+</node>
+</map>

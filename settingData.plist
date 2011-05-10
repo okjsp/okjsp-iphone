@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>로그인</key>
+	<array>
+		<string>로그인 정보</string>
+		<string>자동 로그인</string>
+	</array>
+	<key>사진</key>
+	<array>
+		<string>사진 올리기</string>
+	</array>
+	<key>위치정보</key>
+	<array>
+		<string>현재위치</string>
+	</array>
+	<key>프로그램 정보</key>
+	<array>
+		<string>About</string>
+	</array>
+</dict>
+</plist>
